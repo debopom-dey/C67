@@ -1,2 +1,3 @@
 Crow
 Pot
+Stone
